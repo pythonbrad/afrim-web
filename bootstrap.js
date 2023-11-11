@@ -70,35 +70,35 @@
 /******/ 					"__wbindgen_is_object": function(p0i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_is_object"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_crypto_c48a774b022d20ac": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_crypto_c48a774b022d20ac"](p0i32);
+/******/ 					"__wbg_crypto_58f13aa23ffcb166": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_crypto_58f13aa23ffcb166"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_process_298734cf255a885d": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_process_298734cf255a885d"](p0i32);
+/******/ 					"__wbg_process_5b786e71d465a513": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_process_5b786e71d465a513"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_versions_e2e78e134e3e5d01": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_versions_e2e78e134e3e5d01"](p0i32);
+/******/ 					"__wbg_versions_c2ab80650590b6a2": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_versions_c2ab80650590b6a2"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_node_1cd7a5d853dbea79": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_node_1cd7a5d853dbea79"](p0i32);
+/******/ 					"__wbg_node_523d7bd03ef69fba": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_node_523d7bd03ef69fba"](p0i32);
 /******/ 					},
 /******/ 					"__wbindgen_is_string": function(p0i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_is_string"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_require_8f08ceecec0f4fee": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_require_8f08ceecec0f4fee"]();
+/******/ 					"__wbg_require_2784e593a4674877": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_require_2784e593a4674877"]();
 /******/ 					},
-/******/ 					"__wbg_msCrypto_bcb970640f50a1e8": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_msCrypto_bcb970640f50a1e8"](p0i32);
+/******/ 					"__wbg_msCrypto_abcb1295e768d1f2": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_msCrypto_abcb1295e768d1f2"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_randomFillSync_dc1e9a60c158336d": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_randomFillSync_dc1e9a60c158336d"](p0i32,p1i32);
+/******/ 					"__wbg_randomFillSync_a0d98aa11c81fe89": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_randomFillSync_a0d98aa11c81fe89"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_getRandomValues_37fa2ca9e4e07fab": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_getRandomValues_37fa2ca9e4e07fab"](p0i32,p1i32);
+/******/ 					"__wbg_getRandomValues_504510b5564925af": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_getRandomValues_504510b5564925af"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_now_0cfdc90c97d0c24b": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_now_0cfdc90c97d0c24b"](p0i32);
+/******/ 					"__wbg_now_0669e62508913829": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_now_0669e62508913829"](p0i32);
 /******/ 					},
 /******/ 					"__wbindgen_number_get": function(p0i32,p1i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_number_get"](p0i32,p1i32);
@@ -118,92 +118,92 @@
 /******/ 					"__wbindgen_is_function": function(p0i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_is_function"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_self_1ff1d729e9aae938": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_self_1ff1d729e9aae938"]();
+/******/ 					"__wbg_self_3fad056edded10bd": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_self_3fad056edded10bd"]();
 /******/ 					},
-/******/ 					"__wbg_window_5f4faef6c12b79ec": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_window_5f4faef6c12b79ec"]();
+/******/ 					"__wbg_window_a4f46c98a61d4089": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_window_a4f46c98a61d4089"]();
 /******/ 					},
-/******/ 					"__wbg_globalThis_1d39714405582d3c": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_globalThis_1d39714405582d3c"]();
+/******/ 					"__wbg_globalThis_17eff828815f7d84": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_globalThis_17eff828815f7d84"]();
 /******/ 					},
-/******/ 					"__wbg_global_651f05c6a0944d1c": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_global_651f05c6a0944d1c"]();
+/******/ 					"__wbg_global_46f939f6541643c5": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_global_46f939f6541643c5"]();
 /******/ 					},
 /******/ 					"__wbindgen_is_undefined": function(p0i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_is_undefined"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_newnoargs_581967eacc0e2604": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newnoargs_581967eacc0e2604"](p0i32,p1i32);
+/******/ 					"__wbg_newnoargs_ccdcae30fd002262": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newnoargs_ccdcae30fd002262"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_length_fff51ee6522a1a18": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_length_fff51ee6522a1a18"](p0i32);
+/******/ 					"__wbg_length_cace2e0b3ddc0502": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_length_cace2e0b3ddc0502"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_new_898a68150f225f2e": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_new_898a68150f225f2e"]();
+/******/ 					"__wbg_new_08236689f0afb357": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_new_08236689f0afb357"]();
 /******/ 					},
-/******/ 					"__wbg_next_526fc47e980da008": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_next_526fc47e980da008"](p0i32);
+/******/ 					"__wbg_next_15da6a3df9290720": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_next_15da6a3df9290720"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_value_1695675138684bd5": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_value_1695675138684bd5"](p0i32);
+/******/ 					"__wbg_value_0570714ff7d75f35": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_value_0570714ff7d75f35"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_iterator_97f0c81209c6c35a": function() {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_iterator_97f0c81209c6c35a"]();
+/******/ 					"__wbg_iterator_7ee1a391d310f8e4": function() {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_iterator_7ee1a391d310f8e4"]();
 /******/ 					},
-/******/ 					"__wbg_get_44be0491f933a435": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_get_44be0491f933a435"](p0i32,p1i32);
+/******/ 					"__wbg_get_4a9aa5157afeb382": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_get_4a9aa5157afeb382"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_set_502d29070ea18557": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_set_502d29070ea18557"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_set_0ac78a2bc07da03c": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_set_0ac78a2bc07da03c"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_isArray_4c24b343cb13cfb1": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_isArray_4c24b343cb13cfb1"](p0i32);
+/******/ 					"__wbg_isArray_38525be7442aa21e": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_isArray_38525be7442aa21e"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_instanceof_ArrayBuffer_39ac22089b74fddb": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_instanceof_ArrayBuffer_39ac22089b74fddb"](p0i32);
+/******/ 					"__wbg_instanceof_ArrayBuffer_c7cc317e5c29cc0d": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_instanceof_ArrayBuffer_c7cc317e5c29cc0d"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_call_cb65541d95d71282": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_call_cb65541d95d71282"](p0i32,p1i32);
+/******/ 					"__wbg_call_669127b9d730c650": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_call_669127b9d730c650"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_call_01734de55d61e11d": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_call_01734de55d61e11d"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_call_53fc3abd42e24ec8": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_call_53fc3abd42e24ec8"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_next_ddb3312ca1c4e32a": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_next_ddb3312ca1c4e32a"](p0i32);
+/******/ 					"__wbg_next_1989a20442400aaa": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_next_1989a20442400aaa"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_done_5c1f01fb660d73b5": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_done_5c1f01fb660d73b5"](p0i32);
+/******/ 					"__wbg_done_bc26bf4ada718266": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_done_bc26bf4ada718266"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_entries_e51f29c7bba0c054": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_entries_e51f29c7bba0c054"](p0i32);
+/******/ 					"__wbg_entries_6d727b73ee02b7ce": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_entries_6d727b73ee02b7ce"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_get_97b561fb56f034b5": function(p0i32,p1i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_get_97b561fb56f034b5"](p0i32,p1i32);
+/******/ 					"__wbg_get_2aff440840bb6202": function(p0i32,p1i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_get_2aff440840bb6202"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_buffer_085ec1f694018c4f": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_buffer_085ec1f694018c4f"](p0i32);
+/******/ 					"__wbg_buffer_344d9b41efe96da7": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_buffer_344d9b41efe96da7"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_newwithbyteoffsetandlength_6da8e527659b86aa": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newwithbyteoffsetandlength_6da8e527659b86aa"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_newwithbyteoffsetandlength_2dc04d99088b15e3": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newwithbyteoffsetandlength_2dc04d99088b15e3"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_new_8125e318e6245eed": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_new_8125e318e6245eed"](p0i32);
+/******/ 					"__wbg_new_d8a000788389a31e": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_new_d8a000788389a31e"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_instanceof_Uint8Array_d8d9cb2b8e8ac1d4": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_instanceof_Uint8Array_d8d9cb2b8e8ac1d4"](p0i32);
+/******/ 					"__wbg_instanceof_Uint8Array_19e6f142a5e7e1e1": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_instanceof_Uint8Array_19e6f142a5e7e1e1"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_newwithlength_e5d69174d6984cd7": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newwithlength_e5d69174d6984cd7"](p0i32);
+/******/ 					"__wbg_newwithlength_13b5319ab422dcf6": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_newwithlength_13b5319ab422dcf6"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_subarray_13db269f57aa838d": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_subarray_13db269f57aa838d"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_subarray_6ca5cfa7fbb9abbe": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_subarray_6ca5cfa7fbb9abbe"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_length_72e2208bbc0efc61": function(p0i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_length_72e2208bbc0efc61"](p0i32);
+/******/ 					"__wbg_length_a5587d6cd79ab197": function(p0i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_length_a5587d6cd79ab197"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_set_5cf90238115182c3": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_set_5cf90238115182c3"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_set_dcfd613a3420f908": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbg_set_dcfd613a3420f908"](p0i32,p1i32,p2i32);
 /******/ 					},
 /******/ 					"__wbindgen_debug_string": function(p0i32,p1i32) {
 /******/ 						return installedModules["./node_modules/afrim-js/afrim_js_bg.js"].exports["__wbindgen_debug_string"](p0i32,p1i32);
@@ -315,7 +315,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"./node_modules/afrim-js/afrim_js_bg.wasm":"436317298070b147c672"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"./node_modules/afrim-js/afrim_js_bg.wasm":"f4c52973f746e6083199"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
